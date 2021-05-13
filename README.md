@@ -1,2 +1,2 @@
 # wireframe-exercise
-Wireframe tester
+## Project that practices wireframing and css
